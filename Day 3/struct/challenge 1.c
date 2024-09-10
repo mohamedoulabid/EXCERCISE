@@ -19,7 +19,7 @@ struct personne p;
 	scanf("%s",&p.prenom);
 	printf("saisir le age de personne: ");
 	scanf("%d",&p.age);
-	printf(" le nom est :%s\n le prenom est:%s\n age est: %d\n",p.nom,p.prenom,p.age);
+	printf(" le nom est :%s\n le prenom est:%s\n age est: %d\n",p.nom,p.prenom,page);
 	
 	
 	
